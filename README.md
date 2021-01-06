@@ -147,11 +147,8 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 ### 最后 ###
   教程很直白了，应该都会弄吧！
   
-  代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
-  wz.lxh@outlook.com
-  
-  Q群：[657581700](https://jq.qq.com/?_wv=1027&k=5FQJbWmV)  （项目相关讨论）
+  代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下
   
   最后的最后，再次感谢黑幕/paran大佬
   
-  ————wangziyingwen/酷安id-卷腿毛菌
+  ————wangziyingwen
